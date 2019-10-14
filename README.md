@@ -1,6 +1,7 @@
 # ARDUINO RGB LED STRIP MUSIC VISUALIZER
 An arduino program for visualizing music using [SparkFun Sound Detector](https://www.sparkfun.com/products/12642).
-Touch potentiometer controls Color Hue.
+A touch potentiometer controls Color Hue.
+This project makes use of the [FastLED Library](https://github.com/FastLED/FastLED), and builds on the <a href= "https://github.com/atuline/FastLED-Demos/tree/master/dot_beat" ><b>Dots</b> by Andrew Tuline</a>.
 
 Diagram:
 ![circuit diagram](https://github.com/clayton-kenney/arduino/blob/master/Music%20Visualizer_bb.jpg "Circuit Diagram")
